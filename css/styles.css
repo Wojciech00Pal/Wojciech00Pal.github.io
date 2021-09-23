@@ -7346,11 +7346,45 @@ textarea.form-control-lg {
   margin-bottom: 0 !important;
 }
 .mb-0-student {
+   
   margin-bottom: 0 !important;
-  color:black;
-  font-weight:bolder;
+  font-display:block;
+      
+  font-size:1.42rem !important;    
+  color:ghostwhite;
+  font-weight:800!important;
 }
 
+.mb-0-target {
+ 
+  margin-bottom: 0 !important;
+  font-display:block;
+  font-size:1.9rem !important;    
+  color:;
+  font-weight:900!important;
+}
+
+.mb-4-title{
+    padding: 30px;
+    font-family: serif;
+    font-size: 2.8rem;
+    font-weight: 1000;
+    background-color: aqua;
+    margin-bottom: 40px;
+    color:white;
+    
+    
+}
+
+.mb-0-map {
+ 
+  margin-bottom: 0 !important;
+  font-display:block;
+  font-size:1.9rem !important;    
+  text-align: center;    
+  color:ghostwhite;
+  font-weight:900!important;
+}
 .mb-1 {
   margin-bottom: 0.25rem !important;
 }
@@ -11285,8 +11319,8 @@ html {
 }
 
 .content-section {
-  padding-top: 4.5rem;
-  padding-bottom: 4.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
@@ -11417,7 +11451,7 @@ html {
 
 .callout {
   padding: 2rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
+  background-color:blue;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
