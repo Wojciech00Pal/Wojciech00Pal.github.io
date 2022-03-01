@@ -1,0 +1,29 @@
+.description{
+text-align: left;
+    padding: 20px;
+    background-color:mediumvioletred;
+    font-family: cursive;
+    padding: 40px;
+    list-style-type: square;
+    margin-bottom: 80px;
+}
+
+
+.link a:hover{
+color:darkgray;
+}
+
+
+
+.link a:link,a:visited{
+    color:ghostwhite;
+    text-decoration: none;
+    
+}
+
+.photo{
+    max-width:75%;
+    align-content: center;
+    display: block;
+    margin:auto;
+}
